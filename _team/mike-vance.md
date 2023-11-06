@@ -1,10 +1,22 @@
 ---
-title: "Mike Vance"
-date: 2018-12-20T13:44:30+10:00
-image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
-jobtitle: "Art Director"
-linkedinurl: ""
-weight: 3
+title: Leasing
+layout: page
+description: Work
+intro_image: "images/illustrations/wendo.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Welcome to Wendo Disability group a passionate community based in Machakos county, Kangundo location, Kithii village dedicated to championing the rights and wellbeing of individuals living with disabilities. With a firm belief in equality and inclusion, we are working towards creating a world where every person regardless of their disabilities can thrive and participate fully in all aspects of life.
+
+![Work](/images/wendo MONOCHROME.jpg)
+
+![Work](/images/wendo MONOCHROME-2.jpg)
+
+![Work](/images/wendo MONOCHROME-7.jpg)
+
+![Work](/images/wendo MONOCHROME-9.jpg)
+
+![Work](/images/wendo MONOCHROME-11.jpg)
+
+

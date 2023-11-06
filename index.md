@@ -1,13 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Wendo
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Social innovation and change is our core mandate, and your support scales our impact.
+intro_image: "images/illustrations/wendo.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Wendo
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Social innovation and change is our core mandate, and your support scales our impact.

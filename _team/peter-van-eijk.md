@@ -1,13 +1,22 @@
 ---
-title: "Peter Van Eijk"
-date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
-promoted: true
-weight: 1
+title: Entrepreneurship
+layout: page
+description: Work
+intro_image: "images/illustrations/wendo.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Welcome to Wendo Disability group a passionate community based in Machakos county, Kangundo location, Kithii village dedicated to championing the rights and wellbeing of individuals living with disabilities. With a firm belief in equality and inclusion, we are working towards creating a world where every person regardless of their disabilities can thrive and participate fully in all aspects of life.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Work](/images/wendo MONOCHROME.jpg)
+
+![Work](/images/wendo MONOCHROME-2.jpg)
+
+![Work](/images/wendo MONOCHROME-7.jpg)
+
+![Work](/images/wendo MONOCHROME-9.jpg)
+
+![Work](/images/wendo MONOCHROME-11.jpg)
+
+

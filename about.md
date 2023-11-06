@@ -1,87 +1,41 @@
 ---
-title: About
+title: Our Story
 layout: page
 description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Welcome to Wendo Disability group a passionate community based in Machakos county, Kangundo location, Kithii village dedicated to championing the rights and wellbeing of individuals living with disabilities. With a firm belief in equality and inclusion, we are working towards creating a world where every person regardless of their disabilities can thrive and participate fully in all aspects of life.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+# Problem
 
-# Objectives
+People living with disabilities’ lives are filled with seen and unseen challenges. In silence, they struggle right in front of us, yet too often our eyes miss it. We know living with disability can negatively impact one’s chances of living a stable quality life and we, Wendo Disability group, believe that we have the power to do something about it. 
 
-Financial accounting and financial reporting are often used as synonyms.
+## Focus
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+We are focused on raising awareness, improving life prospects and striving to break down barriers, challenge stereotypes and foster a society that celebrates diversity.
 
-## Relevance
+1. Raising awareness.
+2. Improving life prospects.
+3. Striving to break down barriers, challenge stereotypes, and foster a society that celebrates diversity.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## Support
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+Join us in our journey towards a better future, together we can make meaningful impact in the lives of people living with various disabilities and inspire positive change on a global scale.
+ 
+# Vision
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+An inclusive society where every individual regardless of their disabilities, enjoys stability, quality life and lives independently with dignity. 
 
-## Faithful Representation
+We envision a world where comprehensive support systems empower people with disabilities to achieve their fullest potential. 
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+Through collaborative efforts with our community partners, we aim to foster an inclusive environment that provides accessible education, development of talents, employment opportunities, business startups, advancement in talents and social services. 
 
-## Enhancing Qualitative Characteristics
+By promoting self-sufficiency, we aspire to create a future where everyone can lead to a fulfilling life and contribute meaningfully to their communities.
 
-### Verifiability
+# Mission
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+1. Wendo disability group wishes to continuously advance the rights and opportunities of more people living with disabilities. 
+2. Raising awareness, providing support and pushing for policies that promote accessibility and equal opportunities since we are aware of the struggles we go through every day.
+3. To empower and support each other whenever necessary together with our caregivers considering each individual has unique challenges. We are working towards a more inclusive society and creating a supportive homely group where we care for each other.
+4. Here at Wendo Disability group we intend to show the world how we can overcome these difficulties through the power of togetherness.

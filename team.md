@@ -1,12 +1,17 @@
 ---
-title: Team
-layout: teams
-description: Team
-permalink: "/team/"
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
+title: Our Community
+layout: page
+description: Work
 ---
+We are nestled within Machakos county, Kangundo location, Kithii village.
 
-# Meet The Team
+![Work](/images/wendo MONOCHROME.jpg)
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+![Work](/images/wendo MONOCHROME-2.jpg)
+
+![Work](/images/wendo MONOCHROME-11.jpg)
+
+![Work](/images/wendo MONOCHROME-7.jpg)
+
+
+
